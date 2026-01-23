@@ -702,6 +702,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "ipywidgets" },
     { name = "pillow" },
+    { name = "pydantic" },
     { name = "torch" },
     { name = "transformers" },
 ]
@@ -712,6 +713,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "ipywidgets", specifier = ">=8.1.8" },
     { name = "pillow", specifier = ">=10.1.0" },
+    { name = "pydantic", specifier = ">=2.12.5" },
     { name = "torch", specifier = ">=2.1.0" },
     { name = "transformers", specifier = ">=4.57.6" },
 ]
