@@ -1,7 +1,6 @@
 # Environment
 
-I have a macbook running M3 Max CPU and 128GB of RAM. This repo will be used to test
-how far I can take this Laptop to do run LLM workflows.
+I have a macbook running M3 Max CPU and 128GB of RAM. This repo will be used to test how far I can take this Laptop to run LLM workflows locally.
 
 # models
 
