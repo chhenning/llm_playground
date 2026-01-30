@@ -73,7 +73,7 @@ llama-cli \
 llama-server \
   --model ~/.cache/llama.cpp/Qwen3-30B-A3B-Instruct-2507-Q8_0.gguf \
   --n-gpu-layers 999 \
-  --port 36912
+  --port 32001
 ```
 
 ```sh
